@@ -1,7 +1,7 @@
 ## What's up 👋
 
 ### :pencil: **Bio**
-#### My name is **Guilherme C. Gonzalez**, for now i am studying IT in a college at São Paulo, named FIPP, im in my second year at this college, entering on the fifth term, and im liking too much all the stuffs i've learned until now, by the way with my study for my college, i am trying to learn Web Development because for now i think it is the area i liked more. But i want to learn the about all the possible paths i can go with all this knowlodge i will learn in all this years. And finally to choose the path i will cause more impact at the society. 
+#### My name is **Guilherme C. Gonzalez**, for now i am studying IT in a college at São Paulo, named FIPP, im in my second year at this college, entering on the fifth term, and im liking too much all the stuffs i've learned until now, by the way with my study for my college, i am trying to learn Web Development because for now i think it is the area i liked more. But i want to learn about all the possible paths i can go with all this knowlodge i will learn in all this years. And finally to choose the path i will cause more impact at the society. 
 
 ### :card_file_box: **Progamming Languages**
 - C
