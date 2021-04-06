@@ -4,10 +4,10 @@
 #### My name is **Guilherme Camargo Gonzalez**, I'm a web development student and passionate for AI, nowadays i am finishing my Bachelor Degree in Information Systems(6term) and in parallel im studying the React stack, because my principal objective after finish my degree it's work in a good company at Brazil or one out in Europe or Canada. If can I help with anything please contact me at linkedin or send me a e-mail to gcgonzalez99@hotmail.com, Thanks for your time !  
 
 ### :card_file_box: **Languages**
-- Javascript
-- HTML5
-- CSS3
+- Javascript, HTML5, CSS3
+- Stack MERN(MongoDB, Express, React, Node)
 - C
+
 ### **Learning at college**
 - ASP .NET CORE
 - Java, Servlets, JSP
