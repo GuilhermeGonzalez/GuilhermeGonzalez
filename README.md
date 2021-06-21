@@ -26,7 +26,4 @@
 </p>
 
 
-
-**"When you feel like telling someone your plans, write everything down on paper, chew and swallow."**
-                                                                                    **-Thomas Shelby**
 **<h3 align="center">Checkout my repos below, every feedback is essential :arrow_down:</h3>**
