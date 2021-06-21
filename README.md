@@ -1,16 +1,17 @@
 ## What's up 👋
 
 ### :pencil: **Bio**
-#### My name is **Guilherme Camargo Gonzalez**, I'm a web development student and passionate for AI, nowadays i am finishing my Bachelor Degree in Information Systems(6term) and in parallel im studying the React stack, because my principal objective after finish my degree it's work in a good company at Brazil or one out in Europe or Canada. If can I help with anything please contact me at linkedin or send me a e-mail to gcgonzalez99@hotmail.com, Thanks for your time !  
+#### My name is **Guilherme Camargo Gonzalez**, I'm a web development student and passionate for AI, nowadays i am finishing my Bachelor Degree in Information Systems(7term) and i'm working at a Brazilian company doing a Full Stack web developer job. my main goal after finishing my degree is to specialize in web development, or something related to AI, and someday reach a next level out of Brazil. If can I help with anything please contact me at linkedin or send me a e-mail to gcgonzalez99@hotmail.com, Thanks for your time !  
 
 ### :card_file_box: **Languages**
 - Javascript, HTML5, CSS3
 - Stack MERN(MongoDB, Express, React, Node)
-- C
+- SpringBoot
+- ASP .NET CORE 5
 
 ### **Learning at college**
 - ASP .NET CORE
-- Java, Servlets, JSP
+- Java, Servlets, JSP, SpringBoot
 
 ### :speech_balloon: **Languages**
   - **Portuguese** ... Mother tongue
